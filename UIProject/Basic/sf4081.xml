@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,570">
+  <displayList>
+    <text id="n20" name="n20" xy="18,20" size="1077,51" fontSize="22" autoSize="height" text="默认情况下，子元件在容器内的深度由他们加入容器的顺序决定。但我们可以利用sortingOrder属性自定义深度。这种特性在多个模块都向同一个容器添加子元件时特别有用。"/>
+    <component id="n22" name="n22" src="sf4082" xy="38,144"/>
+    <component id="n24" name="btn0" src="sf4083" xy="628,162" size="167,45">
+      <Button title="Add a child"/>
+    </component>
+    <component id="n25" name="btn1" src="sf4083" xy="630,252" size="454,53">
+      <Button title="Add a child with bigger sortingOrder"/>
+    </component>
+  </displayList>
+</component>

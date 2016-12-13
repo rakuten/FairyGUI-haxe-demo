@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,570">
+  <displayList>
+    <component id="n3" name="n3" src="rpmbz" xy="118,173" size="124,45">
+      <Button title="弹出菜单"/>
+    </component>
+    <text id="n4" name="n4" xy="54,32" size="602,51" fontSize="22" autoSize="height" text="“Popup”表示玩家点击任意空白地方弹出的组件就会自动从舞台移走。"/>
+    <component id="n5" name="n5" src="rpmbz" xy="377,173" size="124,45">
+      <Button title="弹出任意组件"/>
+    </component>
+  </displayList>
+</component>

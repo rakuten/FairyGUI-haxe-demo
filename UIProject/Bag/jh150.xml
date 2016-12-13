@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <displayList>
+    <graph id="n6" name="n6" xy="238,37" size="565,503" type="rect" fillColor="#ff009999"/>
+    <list id="n0" name="list" xy="260,53" size="521,328" layout="flow_hz" overflow="scroll" margin="0,0,0,0" clipSoftness="0,20" lineGap="5" colGap="5" defaultItem="ui://r5x6wd5vjh153">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n1" name="n1" src="jh151" xy="268,395" size="511,2"/>
+    <image id="n2" name="n2" src="jh152" xy="268,402" size="130,124"/>
+    <loader id="n3" name="n3" xy="274,409" size="120,110" align="center" vAlign="middle"/>
+    <text id="n4" name="n4" xy="412,438" size="101,28" fontSize="24" color="#ff0099" text="选中的："/>
+    <text id="n5" name="n5" xy="506,438" size="231,28" fontSize="24" color="#ff0099" autoSize="height" text=""/>
+  </displayList>
+</component>

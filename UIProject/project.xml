@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<project>
-	
-	<meta title="UIProject" package="com.fairygui.uiproject" version="1.0.0" company="FairyGUI" />
-	<window width="640" height="960" if="flash||desktop"/>
-    <window width="0" height="0" if="html5" />
-	<app main="Main" path="Export" file="UIProject" />
-	
-	<source path="src" />
-	
-	<haxelib name="openfl" />
-	
-	<assets path="Assets" rename="assets" embed="false" />
-	
-</project>
+<projectDescription name="FairyGUI-laya-demo" type="Flash" id="42eb7038a35576a032d8aba97f9a18cc">
+  <packages>
+    <package id="9leh0eyf" name="Basic"/>
+    <package id="qf88jb5n" name="LoopList"/>
+    <package id="qkteqwfp" name="VirtualList"/>
+    <package id="jou4kj6p" name="Extension"/>
+    <package id="rbw1tvvv" name="Joystick"/>
+    <package id="r5x6wd5v" name="Bag"/>
+    <package id="c0hnre6o" name="Transition"/>
+    <package id="16eoroa8" name="ModalWaiting"/>
+  </packages>
+  <textSetting font="宋体" size="12" color="#000000"/>
+  <scrollBars vertical="ui://9leh0eyfi3s65w" horizontal="ui://9leh0eyfi3s65i" defaultDisplay="visible"/>
+  <colorScheme value="自定义颜色 #FF0000"/>
+  <fontSizeScheme value="自定义字体大小 30"/>
+</projectDescription>

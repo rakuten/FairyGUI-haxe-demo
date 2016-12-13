@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,570" overflow="scroll" scrollBar="hidden">
+  <displayList>
+    <text id="n0" name="n0" xy="15,6" size="591,30" fontSize="16" autoSize="none" text="改变组件的宽和高并不会直接拉伸组件内的内容"/>
+    <component id="n12" name="n12" src="t24n7g" xy="18,53"/>
+    <component id="n13" name="n13" src="t24n7g" xy="18,319" size="327,322"/>
+    <text id="n14" name="n14" xy="107,38" size="53,20" fontSize="16" text="原组件"/>
+    <text id="n15" name="n15" xy="21,303" size="245,20" fontSize="16" text="改变宽高后，可见内容并没有变化"/>
+    <text id="n16" name="n16" xy="511,49" size="309,20" fontSize="16" text="利用关联，可以使组件大小改变时调整内容"/>
+    <component id="n17" name="n17" src="qa477h" xy="417,125"/>
+    <text id="n18" name="n18" xy="509,91" size="53,20" fontSize="16" text="原组件"/>
+    <text id="n19" name="n19" xy="742,93" size="293,20" fontSize="16" text="改变宽高后，可见图片和文字的自动调整"/>
+    <component id="n20" name="n20" src="qa477h" xy="721,123" size="330,324"/>
+  </displayList>
+</component>

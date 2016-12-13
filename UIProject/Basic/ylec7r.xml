@@ -1,0 +1,6 @@
+<component size="90,23" extention="ProgressBar">
+  <displayList>
+    <image id="n0" name="bar" src="ylec7s" xy="0,0"/>
+  </displayList>
+  <ProgressBar/>
+</component>
