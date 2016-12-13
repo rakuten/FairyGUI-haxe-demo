@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="VirtualListDemo" package="com.fairygui.virtuallistdemo" version="1.0.0" company="FairyGUI" />
+	<window width="640" height="960" if="flash||desktop"/>
+    <window width="0" height="0" if="html5" />
+	<app main="Main" path="Export" file="VirtualListDemo" />
+	
+	<source path="src" />
+	
+	<haxelib name="openfl" />
+	
+	<assets path="Assets" rename="assets" embed="false" />
+	
+</project>
